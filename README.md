@@ -21,7 +21,7 @@ PyQt5 (for GUI development)
 **Clone this repository to your local machine:**
 bash
 Copy code
-git clone https://github.com/Tazeensk/ML-Tasks/tree/main.git
+git clone https://github.com/Tazeensk/ML-Tasks/tree/main/
 Install the required Python packages using pip:
 Copy code
 pip install -r requirements.txt
