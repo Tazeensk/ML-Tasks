@@ -19,8 +19,6 @@ PyQt5 (for GUI development)
 
 **Installation**
 **Clone this repository to your local machine:**
-bash
-Copy code
 git clone https://github.com/Tazeensk/ML-Tasks/tree/main/
 Install the required Python packages using pip:
 Copy code
@@ -54,4 +52,9 @@ Special thanks to Mozilla for providing the Common Voice dataset and to the open
 
 **Contact**
 For questions or inquiries about this project, please contact **Tazeen Shaikh**.
+
+**Output:**
+https://github.com/Tazeensk/Voice-Gender-Detection/blob/main/voice.png
+
+
 
