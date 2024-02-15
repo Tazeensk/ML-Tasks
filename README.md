@@ -20,7 +20,7 @@ PyQt5 (for GUI development)
 **Clone this repository to your local machine:**
 bash
 Copy code
-git clone https://github.com/your_username/voice-gender-detection.git
+git clone https://github.com/Tazeensk/ML-Tasks/tree/main.git
 Install the required Python packages using pip:
 Copy code
 pip install -r requirements.txt
@@ -29,16 +29,16 @@ Usage
 **Data Preparation:**
 Download the Mozilla Common Voice dataset from Kaggle and place it in the data directory.
 Preprocess the dataset, including feature extraction from audio recordings.
-Model Training:
 
+**Model Training:**
 Train machine learning or deep learning models using the preprocessed data.
 Experiment with different algorithms and architectures to optimize performance.
 GUI Development:
 
 Utilize PyQt5 to develop a graphical user interface (GUI) for the voice gender detection system.
 Integrate the trained model with the GUI to provide a user-friendly interface for gender classification.
-Deployment:
 
+**Deployment:**
 Deploy the GUI application to provide a practical tool for voice gender detection tasks.
 Directory Structure
 **data**: Contains the dataset files.
